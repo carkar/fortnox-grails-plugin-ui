@@ -8,12 +8,7 @@
 .launch
 .project
 .settings
-*.launch
-/*.tmproj
-/ivy*
-/eclipse
 target
 *.iws
 .idea
 *.iml
-*~
